@@ -40,4 +40,4 @@ The file children can be used to easily add snippet code (see Usage). The open f
 
 ## Demo
 
-You can run the demo via `npm start`
+[Open Demo in Stackblitz](https://react-stackblitz-snippet.stackblitz.io) or clone the repo and run `npm start`!
