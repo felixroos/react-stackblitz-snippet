@@ -1,8 +1,8 @@
 {
   "name": "react-stackblitz-snippet",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "React Component to generate a Stackblitz Editor",
-  "main": "index.js",
+  "main": "index.jsx",
   "repository": "https://github.com/felixroos/react-stackblitz-snippet.git",
   "author": "Felix Roos <roos@entrecode.de>",
   "license": "MIT",

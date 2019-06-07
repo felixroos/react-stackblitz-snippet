@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Stackblitz } from '../index.js';
+import { Stackblitz } from '../index.jsx';
 
 const Demo = () => <Stackblitz>
   <file name="index.html" content="<h1>Hello</h1>" />
